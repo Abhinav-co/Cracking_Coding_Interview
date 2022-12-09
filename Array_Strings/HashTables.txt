@@ -1,0 +1,4 @@
+# its map key-value pair
+# lookup time in hashtable is O(1)
+# so, its very effecient for looking up the elements.
+# we can also implement hashTable by balances binary search tree. this will give O(log(N)) lookup time
